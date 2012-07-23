@@ -1,0 +1,6 @@
+
+
+
+1. mvn compile
+2. jruby -J-cp $(cat target/classpath) excepion.rb           
+
